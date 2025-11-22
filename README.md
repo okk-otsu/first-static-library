@@ -1,0 +1,2 @@
+This repository is my first static C library. I wanted to understand what it is and how it is done. Don't look for any use in my library. It doesn't have a single useful function. However, I want this repository to be publicly available. Maybe one day my first employer will be interested.
+If someone uses my repository for self-study, I have written instructions for a young programmer in "helper.txt" .
